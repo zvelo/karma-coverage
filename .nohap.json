@@ -1,0 +1,13 @@
+{
+    "github": {
+        "repo": "karma-coverage"
+    },
+    "pivotal_tracker": {
+        "project": {
+            "id": 933918
+        }
+    },
+    "hipchat": {
+        "room": "NoHAP"
+    }
+}
